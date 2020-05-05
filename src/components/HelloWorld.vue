@@ -9,12 +9,12 @@
       </div> -->
     </div>
     <div class="main-banner row col-md-12 mt-5 mb-5 laptop-padding-left">
-        <div class="col-md-7 col-12 banner-text">
-            <h2>Secure & Easy 24/7 Healthcare Management Platform</h2>
-            <p>Designed for Patients and Healthcare Professionals. Create, own, and personalize your healthcare anywhere in the world.</p>
-          <img src="../assets/googleplay.png" width="200px" class="m-0 p-0" alt="">
-          <p class="labels-search m-0 p-0">Subscribe to our news letters</p>
-          <input type="text" placeholder="enter your email id" class="search">
+        <div class="col-md-7 col-12 banner-text" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600">
+            <h2 data-aos="slide-left" data-aos-duration="800">Secure & Easy 24/7 Healthcare Management Platform</h2>
+            <p data-aos="slide-up" data-aos-duration="1000">Designed for Patients and Healthcare Professionals. Create, own, and personalize your healthcare anywhere in the world.</p>
+          <img data-aos="slide-up" data-aos-duration="1400" src="../assets/googleplay.png" width="200px" class="m-0 p-0" alt="">
+          <p data-aos="slide-up" data-aos-duration="1600" class="labels-search m-0 p-0">Subscribe to our news letters</p>
+          <input data-aos="slide-up" data-aos-duration="2100" type="text" placeholder="enter your email id" class="search">
         </div>
         <div class="col-md-4 col-12">
           <img src="../assets/ellipse.svg" class="ring" width="115%" alt="">
@@ -23,12 +23,12 @@
           <img src="../assets/circle-tab.png" class="circle-3" alt="">
           <img src="../assets/circle-tab.png" class="circle-4" alt="">
           <img src="../assets/circle-tab.png" class="circle-5" alt="">
-          <img src="../assets/phone.png" class="phone" alt="">
-          <img src="../assets/stethoscope.png" class="stethoscope" alt="">
-          <img src="../assets/hospital.png" class="hospital" alt="">
-          <img src="../assets/drop.svg" class="drop" alt="">
-          <img src="../assets/drug.svg" class="drug" alt="">
-          <img src="../assets/ambulance.svg" class="ambulance" alt="">
+          <img data-aos="zoom-in" data-aos-duration="800" src="../assets/phone.png" class="phone" alt="">
+          <img data-aos="zoom-in" data-aos-duration="1200" src="../assets/stethoscope.png" class="stethoscope" alt="">
+          <img data-aos="zoom-in" data-aos-duration="1600" src="../assets/hospital.png" class="hospital" alt="">
+          <img data-aos="zoom-in" data-aos-duration="2000" src="../assets/drop.svg" class="drop" alt="">
+          <img data-aos="zoom-in" data-aos-duration="2400" src="../assets/drug.svg" class="drug" alt="">
+          <img data-aos="zoom-in" data-aos-duration="2800" src="../assets/ambulance.svg" class="ambulance" alt="">
 
         </div>
       </div>
@@ -37,7 +37,7 @@
         <h2>Features</h2>
       </div>
       <div class="cards row col-md-12 justify-content-between m-0 p-0">
-        <div class="card col-md-40 col-12 mb-2 p-3">
+        <div class="card col-md-40 col-12 mb-2 p-3" data-aos="slide-up" data-aos-duration="1000">
           <div class="row">
             <div class="col-md-2 col-3">
               <img src="../assets/time.png" width="50px" alt="">
@@ -50,7 +50,7 @@
             </div>
           </div>
         </div>
-        <div class="card col-md-40 mb-2 p-3">
+        <div class="card col-md-40 mb-2 p-3" data-aos="slide-up" data-aos-duration="1200">
           <div class="row">
             <div class="col-md-2 col-3">
               <img src="../assets/doc.png" width="50px" alt="">
@@ -65,7 +65,7 @@
             </div>
           </div>
         </div>
-        <div class="card col-md-40 mb-2 p-3">
+        <div class="card col-md-40 mb-2 p-3" data-aos="slide-up" data-aos-duration="1300">
           <div class="row">
             <div class="col-md-2 col-3">
               <img src="../assets/prescription.png" width="50px" alt="">
@@ -80,7 +80,7 @@
             </div>
           </div>
         </div>
-        <div class="card col-md-40 mb-2 p-3">
+        <div class="card col-md-40 mb-2 p-3" data-aos="slide-up" data-aos-duration="1500">
           <div class="row">
             <div class="col-md-2 col-3">
               <img src="../assets/mask.png" width="50px" alt="">
@@ -95,7 +95,7 @@
             </div>
           </div>
         </div>
-        <div class="card col-md-40 mb-2 p-3">
+        <div class="card col-md-40 mb-2 p-3" data-aos="slide-up" data-aos-duration="1700">
           <div class="row">
             <div class="col-md-2 col-3">
               <img src="../assets/newss.png" width="50px" alt="">
@@ -109,7 +109,7 @@
             </div>
           </div>
         </div>
-        <div class="card col-md-40 mb-2 p-3">
+        <div class="card col-md-40 mb-2 p-3" data-aos="slide-up" data-aos-duration="1900">
           <div class="row">
             <div class="col-md-2 col-3">
               <img src="../assets/family.png" width="50px" alt="">
@@ -131,11 +131,11 @@
     </div>
     <div class="howitworks text-left">
       <div class="laptop-padding-left pt-5">
-        <h2 style="color:#FFFFFF">OUR MISSION</h2>
-        <p style="color:#ffffff">Our mission is to provide a secure platform designed to allow</p>
+        <h2 style="color:#FFFFFF" data-aos="slide-up" data-aos-duration="1400">OUR MISSION</h2>
+        <p style="color:#ffffff" data-aos="slide-up" data-aos-duration="1600">Our mission is to provide a secure platform designed to allow</p>
           <div class="mt-5">
             <div class="col-md-12">
-            <img src="../assets/mission1.png" class="mission1" alt="">
+            <img data-aos="zoom-in" data-aos-duration="1400" src="../assets/mission1.png" class="mission1" alt="">
             </div>
             <div class="mission1-text col-md-2 col-10">
               <p class="mission-text">Real-time access to medical records</p>
@@ -143,7 +143,7 @@
           </div>
           <div>
             <div class="col-md-12">
-            <img src="../assets/mission2.png" class="mission2" alt="">
+            <img data-aos="zoom-in" data-aos-duration="1400" src="../assets/mission2.png" class="mission2" alt="">
             </div>
             <div class="mission2-text col-md-2 col-10 p-2">
               <p class="mission-text">Digital prescription and home delivery</p>
@@ -151,7 +151,7 @@
           </div>
           <div>
             <div class="col-md-12">
-            <img src="../assets/mission3.png" class="mission3" alt="">
+            <img data-aos="zoom-in" data-aos-duration="1400" src="../assets/mission3.png" class="mission3" alt="">
             </div>
             <div class="mission3-text col-md-2 col-10">
               <p class="mission-text">Easy interaction with our AI powered digital Doctor Remi</p>
@@ -159,7 +159,7 @@
           </div>
           <div>
             <div class="col-md-12">
-            <img src="../assets/mission4.png" class="mission4" alt="">
+            <img data-aos="zoom-in" data-aos-duration="1400" src="../assets/mission4.png" class="mission4" alt="">
             </div>
             <div class="mission4-text col-md-2 col-10">
               <p class="mission-text">Booking and interacting with healthcare professionals online and in-person around the world in emergency and non-emergency situations</p>
